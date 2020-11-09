@@ -78,7 +78,7 @@
         </asp:ScriptManager>
         <table style="width: 100%;">
             <tr>
-                <td colspan="2">This is Gardenrover puzzle!!!  </td>
+                <td colspan="2">This is Gardenrover puzzle!!! </td>
             </tr>
             <tr>
                 <td>Please enter your squad number : </td>
